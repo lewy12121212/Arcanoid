@@ -1,0 +1,20 @@
+1 - rakietka szybciej
+2 - punkty plus
+3 - ¿ycie plus
+4 - rozszerzenie rakietki
+5
+6
+7
+8
+9
+10
+
+11 - rakietka wolniej
+12 - punkty minus
+13 - ¿ycie minus
+14 - zmniejszenie rakietki
+
+
+kilka pilek
+lasery 
+pi³ka wolniej? /szybciej
